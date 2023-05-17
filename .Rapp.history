@@ -1,0 +1,47 @@
+mean(mtcars$mpg)
+getwd()
+getwd
+getwd()
+myfunction <- function(x) {#
+	y<-rnorm(100)#
+	mean(y)#
+}
+ls()
+myfunction()
+myfunction.R
+"myfunction.R"
+ls()
+second
+second(4)
+"myfunction"
+ls()
+source("myfunction.R")
+ls()
+"myfunction.R"
+source("myfunction.R")
+getwd()
+ls()
+source("myfunction.R")
+ls()
+myfunction <- function(x) {#
+	y <- rnorm(100)#
+	mean(y)#
+}#
+#
+second <- function(x) {#
+	x + rnorm(length(x))#
+}
+ls()
+getwd()
+dir()
+ls()
+source("ex1")
+source("ex1.R")
+ls()
+second
+second (4)
+second (4-10)
+second (4:10)
+install.packages("swirl")
+library("swirl")
+swirl()
